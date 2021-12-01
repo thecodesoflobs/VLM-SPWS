@@ -5,7 +5,7 @@ $(document).ready(function(){
 			$('header').addClass('header2');
 		} else {
 			$('header').removeClass('header2');
-		}
+		}		
 	});
 
-});
+})== &
